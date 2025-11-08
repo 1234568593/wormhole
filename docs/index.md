@@ -18,4 +18,4 @@ We have seen them all around the galaxy.
 ### PART 4: How do you guys go all around the galaxy?
 NASA gives us spaceship grants.
 ### PART 5: Why are you a github repository?
-Because hosting is expensive.
+Why not?
