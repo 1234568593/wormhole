@@ -21,9 +21,11 @@ Back to the lab:
 - **Ned**: WE'RE ALL GONNA LIVE!!!!!!!!!!!!!
 
 
-we were actually the ones that moved the wormhole.
+we were actually the ones that moved the wormhole
 
 To learn about wormholes and their dangers [see here](docs/index.md).
+
+We activaely maintain this repositroy, as you can tell from the 60,000+ commits and 1,600+ branches.
 
 
 # Installation
