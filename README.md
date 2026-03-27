@@ -1,4 +1,4 @@
-<img alt="Banner" src="docs/images/banner.jpg"/>
+<img alt="Banner" src="https://github.com/secretmediawormholes/Wormhole/blob/050e5cc0d2bfd24e7d0c6fd547e50db48a4bdfac/docs/images/banner.jpg"/>
 
 # Secret Media Wormholes Inc. Official GitHub repository
 We use a GitHub repository for our official basically webpage. Please read this.
